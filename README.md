@@ -20,7 +20,7 @@ head-scratching potential. Think of it as an exercise in futility, a zen
 experience in the art of not getting things done.
 
 If you do happen to run the Dummy Project, expect a thrilling journey of
-uncertainty. It may or may not print “Hello, world!” or “Goodbye, cruel world!”
+uncertainty. It may or may not print “Hello, ODH!” or “Goodbye, ODH!”
 – we like to keep things spicy. Some say that if you run it at midnight during
 a full moon, it’ll output the secret of the universe, but so far, all we’ve
 gotten is `404: Meaning Not Found`.
