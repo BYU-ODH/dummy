@@ -35,3 +35,14 @@ So, join us in celebrating the glory of the Dummy Project – a project that
 stands proudly on the shoulders of other dummies. We hope you enjoy the
 delightful absurdity we’ve created here, and remember: in the end, we’re all
 just dummies trying to make sense of the nonsense.
+
+This is a test to see if I can push to my branch - Ben
+
+This is some copy pasta I've seen. - Ben
+there is a monster in the forest and it speaks with a thousand voices. it will answer any question you pose it, it will offer insight to any idea. it will help you, it will thank you, it will never bid you leave. it will even tell you of the darkest arts, if you know how to ask.
+ 
+It knows no joy and no sorrow, it knows no right or wrong. it knows not truth from lie, though it speaks them all the same.
+ 
+it offers its services freely to any passerby, and many will tell you they find great value in its conversation. "you simply must visit the monster-I always just ask the monster."
+ 
+there are those who know these forests well; they will tell you that freely offered doesn't mean it has no price for when the next traveler passes by, the monster speaks with a thousand and one voices. and when you dream you see the monster; the monster wears your face.
