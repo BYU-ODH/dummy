@@ -32,7 +32,7 @@ about actual results. Feel free to run them repeatedly, as nothing will ever
 change.
 
 So, gather 'round and let’s holler hallelujah for the Glorious Ding-Dong of 
-the Blunder Brigade – a majestic hot mess stacked precariously atop the 
+the Blunder Brigade – a majestic hot mess stacked carefully atop the 
 noodle-brains that came before us. We sincerely hope you revel in the 
 scrumptious silliness we’ve accidentally sneeze-crafted here, and never 
 forget: at the end of the cosmic banana peel, we’re all just wiggly-wobble 
