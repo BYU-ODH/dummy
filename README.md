@@ -31,7 +31,9 @@ practicing your test-running skills, without the stress of having to worry
 about actual results. Feel free to run them repeatedly, as nothing will ever
 change.
 
-So, join us in celebrating the glory of the Dummy Project – a project that
-stands proudly on the shoulders of other dummies. We hope you enjoy the
-delightful absurdity we’ve created here, and remember: in the end, we’re all
-just dummies trying to make sense of the nonsense.
+So, gather 'round and let’s holler hallelujah for the Glorious Ding-Dong of 
+the Blunder Brigade – a majestic hot mess stacked precariously atop the 
+noodle-brains that came before us. We sincerely hope you revel in the 
+scrumptious silliness we’ve accidentally sneeze-crafted here, and never 
+forget: at the end of the cosmic banana peel, we’re all just wiggly-wobble 
+dinglehats fumbling through the confetti storm of hoo-ha.
