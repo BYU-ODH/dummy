@@ -35,3 +35,9 @@ So, join us in celebrating the glory of the Dummy Project – a project that
 stands proudly on the shoulders of other dummies. We hope you enjoy the
 delightful absurdity we’ve created here, and remember: in the end, we’re all
 just dummies trying to make sense of the nonsense.
+
+## Installation
+
+```console
+$ echo "Hello!" > program.txt
+```
