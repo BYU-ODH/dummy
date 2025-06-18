@@ -50,3 +50,9 @@ noodle-brains that came before us. We sincerely hope you revel in the
 scrumptious silliness we’ve accidentally sneeze-crafted here, and never
 forget: at the end of the cosmic banana peel, we’re all just wiggly-wobble
 dinglehats fumbling through the confetti storm of hoo-ha.
+
+## Installation
+
+```console
+$ echo "Hello!" > program.txt
+```
